@@ -1,0 +1,18 @@
+#gt_it{
+    z-index: 4;
+    margin-left: 10px;
+    margin-right: 9px;
+
+}
+#spinner_nav{
+    margin-left: -18px;
+}
+.spinners2{
+    margin: 0;
+    padding: 0;
+}
+
+.nav_button{
+    position: absolute;
+    right: 42px;
+}
